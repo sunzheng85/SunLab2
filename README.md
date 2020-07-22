@@ -1,6 +1,5 @@
 ## Welcome to Sun's Lab
-
-You can use the [editor on GitHub](https://github.com/sunzheng85/SunLab2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I’m a postdoctoral researcher in physics and my interest field can be best summarized as exploration of light-matter interaction at the nanoscale. The main research focus areas are development of: photonic structures that confine light and artificially engineered optical materials such as metamaterials, optical micro-cavities and hybrid excitonic materials display optical properties that surpass naturally occurring materials. These focus areas are motivated by the quest to develop next generation computing technologies including those that exploit the quantum property of light, ultrasensitive sensors for chemical and biological detection, and high efficiency energy transfer systems.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
