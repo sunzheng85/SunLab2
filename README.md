@@ -61,7 +61,9 @@ Postdoc Fellow **University of Pittsburgh** 2017/11/01--2020/10/31.
 
 ### ORAL TALK
 1. American Physical Society **APS March Meeting, Denver, CO, Mar 2-6, 2020** 
-"Optical Switching Based on a Single Layer of WSe<sub>2<\sub>,"
+
+"Optical Switching Based on a Single Layer of WSe<sub>2</sub>,"
+
 **Zheng Sun**, Ke Xu, Beaumariage Jonathan, Jerry Liang, Susan Fullerton-Shirey, David Snoke
     \item 2. American Physical Society \textbf{(APS)} March Meeting, \textbf{Denver, CO}, Mar 2- 6, 2020\\
     "Calibration of long-lifetime polariton structures,"\\
