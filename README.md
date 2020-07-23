@@ -10,6 +10,19 @@ M.A.  Physics, Fudan University, 2012.
 
 B.S.  Applied Physics, Zhejiang Normal University, 2008.
 
+### Employment
+
+Postdoc Fellow University of Pittsburgh 2017/11/01--2020/10/31.
+
+### Research Interest
+
+Excitons in two-dimensional Semiconductors of transition metal dichalchogenides (TMDs)
+Cavity quantum electrodynamics using inorganic and hybrid microcavities
+Engineered nonlinear optical materials based on hybrid nanocomposites
+Optical electro control of the polaritons and related applications
+Quantum optics using metamaterials
+Transportation of polaritons in GaAs quantum wells based microcavity
+
 ```markdown
 Syntax highlighted code block
 
