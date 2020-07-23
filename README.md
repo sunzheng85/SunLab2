@@ -38,7 +38,7 @@ Postdoc Fellow **University of Pittsburgh** 2017/11/01--2020/10/31.
 
 6. **Zheng Sun**, David W Snoke, “Optical switching with organics,”, **[Invited] _Nat. Photonics,[News and Views], 13, 370-371_ (2019) (Corresponding author)**
 
-7. **Zheng Sun**, Jonathan Beaumariage, Hema C P Movva, Sayema Chowdhury, Anupam Roy, Sanjay K Banerjee, David W Snoke, “Stress-induced bandgap renormalization in atomic crystals,” **_Solid State Communications 288, 18-21_ (2019) (Corresponding author)
+7. **Zheng Sun**, Jonathan Beaumariage, Hema C P Movva, Sayema Chowdhury, Anupam Roy, Sanjay K Banerjee, David W Snoke, “Stress-induced bandgap renormalization in atomic crystals,” **_Solid State Communications 288, 18-21_ (2019) (Corresponding author)**
 
 8. Biswanath Chakraborty, Jie Gu, **Zheng Sun**, Mandeep Khatoniar, Rezlind Bushati, Alexandra L Boehmke, Rian Koots, Vinod M Menon, “Control of Strong Light-matter Interaction in Monolayer WS2 Through Electric Field Gating,” **_Nano Lett. 18 (10), 6455-6460_ (2018)
 
