@@ -82,9 +82,14 @@ Postdoc Fellow **University of Pittsburgh** 2017/11/01--2020/10/31.
 - Nano Letters
 - Physical Review B 
 - Physical Review Materials 
-- Optica (1)  Scientific Report (1)  Optics
-Letters (1) Optical Express (4)  Physica Scripta (1) Solid State Communications (1)  Semiconductor
-Science and Technology (1)  Materials Research Express(4)
+- Optica 
+- Scientific Report 
+- Optics Letters 
+- Optical Express 
+- Physica Scripta 
+- Solid State Communications 
+- Semiconductor Science and Technology 
+- Materials Research Express
 
 
 ```markdown
