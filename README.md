@@ -45,7 +45,7 @@ Postdoc Fellow **University of Pittsburgh** 2017/11/01--2020/10/31.
 
 10. T Galfsky, **Zheng Sun**, CR Considinel, CT Chou, WC Ko, YH Lee, E Narimanov, “Broadband enhancement of light-matter interaction in 2D semiconductors by photonic hypercrystals,” **_Nano Lett. 16 (8), 4940-4945_ (2016) (Co-first author)**  
 
-11. T. Galfsky, **Z. Sun**, Z. Jacob, V. M. Menon, “Preferential emission into epsilon-near-zero metamaterial ,” **[Invited], _Opt. Mater. Express 5(12), 2878-2883_ (2015)** 
+11. T. Galfsky, **Z. Sun**, Z. Jacob, V. M. Menon, “Preferential emission into epsilon-near-zero metamaterial ,” **[Invited], _Opt. Mater. Express 5 (12), 2878-2883_ (2015)** 
 
 12. X. Liu, T. Galfsky, **Z. Sun**, F. Xia, E. Lin, Y.-H. Lee, S. Kéna-Cohen, and V. M. Menon,"Strong light–matter coupling in two-dimensional atomic crystals," **_Nat. Photonics 9, 30–34_ (2014)** 
 
