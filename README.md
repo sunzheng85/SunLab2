@@ -26,7 +26,7 @@ Postdoc Fellow **University of Pittsburgh** 2017/11/01--2020/10/31.
 
 ### PUBLICATIONS
 
-**Zheng Sun**, Jonathan Beaumariage, Qingrui Cao, Benjamin Hunt, Kenji Watanabe, Takashi Taniguchi, David W. Snoke, "Observation of the Interlayer Exciton Gases in WSe$_2$- p: WSe$_2$ Heterostructures," **ACS Photonics ** (2020)**Corresponding author**
+**Zheng Sun**, Jonathan Beaumariage, Qingrui Cao, Benjamin Hunt, Kenji Watanabe, Takashi Taniguchi, David W. Snoke, "Observation of the Interlayer Exciton Gases in WSe2-p:WSe2 Heterostructures," **_ACS Photonics 7 (7), 1622–1627_ (2020) Corresponding author**
 
 \item 2. \textbf{\underline{Z. Sun}}, J. Beaumariage, Q. Cao, B. Hunt, K. Watanabe, T. Taniguchi, D. W. Snoke, "Toward a room temperature Schafroth superconductor based on charged excitonic complexes," \textbf{\textit{arXiv}}:2003.05850 (2020)(\textbf{Corresponding author})
 
