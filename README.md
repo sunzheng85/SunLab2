@@ -59,7 +59,64 @@ Postdoc Fellow **University of Pittsburgh** 2017/11/01--2020/10/31.
 
 16. **Zheng Sun**, Yuan-Ping Xu, Sheng Li, Thomas F George, "Forbidden Singlet Exciton Transitions Induced by Localization in Polymer Light-Emitting Diodes in a Strong Electric Field," **_Journal of Physical Chemistry B, 115 (5), 869-873_ (2011)**
 
-
+### ORAL TALK
+1. American Physical Society **APS March Meeting, Denver, CO, Mar 2-6, 2020** 
+"Optical Switching Based on a Single Layer of WSe<sub>2<\sub>,"
+**Zheng Sun**, Ke Xu, Beaumariage Jonathan, Jerry Liang, Susan Fullerton-Shirey, David Snoke
+    \item 2. American Physical Society \textbf{(APS)} March Meeting, \textbf{Denver, CO}, Mar 2- 6, 2020\\
+    "Calibration of long-lifetime polariton structures,"\\
+    Jonathan Beaumariage, \textbf{\underline{Zheng Sun}}, Mark Steger, David Myers, Shouvik Mukherjee, David Snoke, Loren Pfeiffer, Kenneth West
+     \item 3. American Physical Society \textbf{(APS)} March Meeting, \textbf{Denver, CO}, Mar 2- 6, 2020\\
+    "Dynamics of an Exciton-Polariton Condensate in a Tilted Ring Microcavity,"\\
+    Shouvik Mukherjee, Valerii Kozin, Anton Nalitov, Ivan Shelykh, \textbf{\underline{Zheng Sun}}, David Myers, Burcu Ozden, Jonathan Beaumariage, Loren Pfeiffer, Kenneth West, Andrew Daley, David Snoke
+    \item 4. Fudan- Guanghua International Forum for Young Scholars (\textbf{Invited}), \textbf{Shanghai, China}, Dec 25-27, 2019\\
+    "Light-matter Interaction in Semiconductors," \\
+    \textbf{\underline{Zheng Sun}}
+	\item 5. Universal Bose- Einstein Condensation (\textbf{UBEC}), \textbf{Pittsburgh, PA}, Apr 1- 5, 2019\\
+	"Natural Oscillations of a Polariton Condensation in a Ring,"\\
+	Shouvik Mukherjee, David Myers, Rosaria Lena, Burcu Ozden, Jonathan Beaumariage,  \textbf{\underline{Zheng Sun}}, Mark Steger, Loren Pfeiffer; Kenneth West,  Andrew Daley, David Snoke 
+	\item 6. American Physical Society \textbf{(APS)} March Meeting, \textbf{Boston, MA}, Mar 4- 8, 2019\\
+	"Room temperature dynamical control and electroluminescence from microcavity polaritons in monolayer transitional metal dichalcogenides,"\\
+	Biswanath Chakraborty, Jie Gu, \textbf{\underline{Zheng Sun}}, Mandeep Khatoniar, Rezlind Bushati, Alexandra Bohemke, Rian Koots, Vinod M Menon
+	\item 7. American Physical Society \textbf{(APS)} March Meeting, \textbf{Boston, MA}, Mar 4- 8, 2019\\
+	"Exciton-Polariton Condensate in a Ring Microcavity,"\\
+	Shouvik Mukherjee, David Myers, Rosaria Lena, Burcu Ozden, Jonathan Beaumariage,  \textbf{\underline{Zheng Sun}}, Mark Steger, Loren Pfeiffer; Kenneth West,  Andrew Daley, David Snoke 
+    \item 8. IEEE Photonics Conference (\textbf{IPC}), \textbf{Reston, VA}, Sep 30- Oct 4, 2018\\
+    "Electrical Tuning of Exciton-Polaritons in Monolayer WS$_2$,"\\
+     Biswanath Chakraborty, Jie Gu, \textbf{\underline{Zheng Sun}}, Mandeep Khatoniar, Rezlind Bushati, Alexandra Bohemke, Rian Koots, Vinod M Menon
+	\item 9. 9th International Conference On Spontaneous Coherence in Excitonics Systems (\textbf{(ICSCE9)}), \textbf{Montréal, Canada}, Jul 16-20, 2018 \\
+	"Stress induced bandgap renormalization in atomic crystals," \\
+	\textbf{\underline{Zheng Sun}}, Jonathan.beaumariage, Hema C P Movva, Sayema Chowdhury, Anupam Roy, Sanjay K Banerjee, David W Snoke
+	\item 10. East China Normal University (\textbf{ECNU}) International Forum for Young Scientists (Scholars) (\textbf{Invited}), \textbf{Shanghai, China}, Apr 26-28, 2018\\
+	"Control of light-matter interaction in 2D semiconductors," \\
+	\textbf{\underline{Zheng Sun}}
+	\item 11. Conference on Lasers and Electro-Optics and Quantum Electronics and Laser Science \textbf{(CLEO/QELS)}, \textbf{San Jose, CA}, May 13-18, 2018 \\
+	 “Tuning Exciton-polaritons in Monolayer WS$_2$ Using Electrical Field Gating,” \\
+	 B Chakraborty, Jie Gu, M. Khatoniar, \textbf{\underline{Z. Sun}}, V. M. Menon	 	
+	\item 12. Conference on Lasers and Electro-Optics and Quantum Electronics and Laser Science \textbf{(CLEO/QELS)}, \textbf{San Jose, CA}, May 14-19, 2017 \\
+	“Valley polarized exciton polaritons from two-dimensional semiconductor in microcavity,” \\
+	\textbf{\underline{Z. Sun}}, J. Gu, A. Ghazryan, Z. Shotan, C. R. Considine , M.Dollar, P. Ghaemi, V. M. Menon
+	\item 13. Emerging Researchers National \textbf{(ERN)} in STEM, \textbf{Washington DC}, March 2-4, 2017 \\
+	“Exciton polaritons in two-dimensional atomic crystal in Micro-cavity,” \\
+	\textbf{\underline{Z. Sun}}, J. Gu, Z. Shotan, R. Considin, M. Dollar and V. M. Menon
+	\item 14. American Physical Society \textbf{(APS)} March Meeting, \textbf{New Orleans, LA}, March 13-17, 2017\\
+	“Room temperature valley polaritons,”. \\
+	\textbf{\underline{Z. Sun}}, J. Gu, Z. Shotan, R. Considin, M. Dollar and V. M. Menon	
+	\item 15. Material Research Science and Engineering Centers \textbf{(MRSEC)}, \textbf{New York, NY}, Nov 17, 2016\\
+	“Interaction of two-dimensional atomic crystal and optical devices,” \\
+	\textbf{\underline{Z. Sun}} and V. M. Menon	
+	\item 16. Conference on Lasers and Electro-Optics and Quantum Electronics and Laser Science \textbf{(CLEO/QELS)}, \textbf{San Jose, CA}, June 6-9, 2016\\
+	“Broadband control of light-matter interaction in 2D semiconductors using photonic hypercrystals,” \\
+	\textbf{\underline{Z. Sun}}, T. Galfsky, C. R. Considine, Y-H- Lee, E. Narimanov and V. M. Menon \textbf{(Equal contribution)}	
+	\item 17. Conference on Lasers and Electro-Optics and Quantum Electronics and Laser Science \textbf{(CLEO/QELS)}, \textbf{San Jose, CA}, June 6-9, 2016\\
+	“Preferential emission into epsilon-near-zero metamaterial,” Tal Galfsky,\\
+	\textbf{\underline{Z. Sun}}, Zubin Jacob, Vinod M. Menon 
+ 	\item 18. Conference on Lasers and Electro-Optics and Quantum Electronics and Laser Science \textbf{(CLEO/QELS)}, \textbf{San Jose, CA}, June 10-14, 2015 \\
+	“Pseudospin selective microcavity polariton emission from two-dimensional atomic crystals,” \\
+	\textbf{\underline{Z. Sun}}, X. Liu, H-T Huang, Y-H. Lee, S. Kena-Cohen, and V. M. Menon 	
+	\item 19. Materials Research Society \textbf{(MRS)}, \textbf{Boston, MA}, Dec 4, 2014\\
+	“Formation of Microcavity Polaritons in Monolayer MoS$_2$,”\\
+	 X. Liu, \textbf{\underline{Z. Sun}}, T. Galfsky, F. Xia, E-C Lin, Y-H Lee, S. Kéna-Cohen and V. M. Menon
 
 ```markdown
 Syntax highlighted code block
