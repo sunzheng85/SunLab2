@@ -1,4 +1,3 @@
-![Selfie](https://github.com/sunzheng85/SunLab2/blob/master/Selfie.jpg)
 <img width="200" alt="Selfie" src="https://github.com/sunzheng85/SunLab2/blob/master/Selfie.jpg">
 ## WELCOME TO SUN'S HOMEPAGE
 
