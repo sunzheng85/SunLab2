@@ -25,7 +25,7 @@ Postdoc Fellow **University of Pittsburgh** 2017/11/01--2020/10/31.
 6. Transportation of polaritons in GaAs quantum wells based microcavity
 
 ### PUBLICATIONS
-[:books:My Google Scholar](https://scholar.google.com/citations?hl=en&user=3DjSWtcAAAAJ&view_op=list_works&sortby=pubdate)
+:books:[My Google Scholar](https://scholar.google.com/citations?hl=en&user=3DjSWtcAAAAJ&view_op=list_works&sortby=pubdate)
 
 1. **Zheng Sun**, Jonathan Beaumariage, Qingrui Cao, Benjamin Hunt, Kenji Watanabe, Takashi Taniguchi, David W. Snoke, "Observation of the Interlayer Exciton Gases in WSe<sub>2</sub>-p:WSe<sub>2</sub> Heterostructures," **_ACS Photonics 7 (7), 1622–1627_ (2020) (Corresponding author)**
 
