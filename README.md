@@ -1,4 +1,3 @@
-<img src="/images/Selfie.jpg" width="200" alt="Selfie">
 ![Selfie](/images/Selfie.jpg)
 ## WELCOME TO Dr.SUN'S HOMEPAGE
 
