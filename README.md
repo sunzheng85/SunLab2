@@ -1,4 +1,4 @@
-![Selfie](/images/Selfie.jpg|width=100)
+![Selfie](/images/Selfie.jpg)
 <img src="/images/Selfie.jpg" alt="Selfie" width="200" height="200">
 ## WELCOME TO Dr.SUN'S HOMEPAGE
 
