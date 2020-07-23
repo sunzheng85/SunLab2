@@ -1,8 +1,9 @@
-## Welcome to Sun's Lab
+## WELCOME TO SUN'S LAB
+
 I’m a researcher in physics and my interest field can be best summarized as exploration of light-matter interaction at the nanoscale. The main research focus areas are development of: photonic structures that confine light and artificially engineered optical materials such as metamaterials, optical micro-cavities and hybrid excitonic materials display optical properties that surpass naturally occurring materials. These focus areas are motivated by the quest to develop next generation computing technologies including those that exploit the quantum property of light, ultrasensitive sensors for chemical and biological detection, and high efficiency energy transfer systems.
 
 
-### Education
+### EDUCATION
 
 Ph.D. Physics, **The Graduate Center, City University of New York**, 2017.
 
@@ -10,11 +11,11 @@ M.A.  Physics, **Fudan University**, 2012.
 
 B.S.  Applied Physics, **Zhejiang Normal University**, 2008.
 
-### Employment
+### EMPLOYMENT
 
 Postdoc Fellow **University of Pittsburgh** 2017/11/01--2020/10/31.
 
-### Research Interest
+### RESEARCH INTEREST
 
 1. Excitons in two-dimensional Semiconductors of transition metal dichalchogenides (TMDs)
 2. Cavity quantum electrodynamics using inorganic and hybrid microcavities
@@ -22,6 +23,9 @@ Postdoc Fellow **University of Pittsburgh** 2017/11/01--2020/10/31.
 4. Optical electro control of the polaritons and related applications
 5. Quantum optics using metamaterials
 6. Transportation of polaritons in GaAs quantum wells based microcavity
+
+### PUBLICATIONS
+
 
 ```markdown
 Syntax highlighted code block
