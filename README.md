@@ -26,37 +26,37 @@ Postdoc Fellow **University of Pittsburgh** 2017/11/01--2020/10/31.
 
 ### PUBLICATIONS
 
-1. **Zheng Sun**, Jonathan Beaumariage, Qingrui Cao, Benjamin Hunt, Kenji Watanabe, Takashi Taniguchi, David W. Snoke, "Observation of the Interlayer Exciton Gases in WSe2-p:WSe2 Heterostructures," **_ACS Photonics, 7 (7), 1622–1627_ (2020) (Corresponding author)**
+1. **Zheng Sun**, Jonathan Beaumariage, Qingrui Cao, Benjamin Hunt, Kenji Watanabe, Takashi Taniguchi, David W. Snoke, "Observation of the Interlayer Exciton Gases in WSe2-p:WSe2 Heterostructures," **_ACS Photonics 7 (7), 1622–1627_ (2020) (Corresponding author)**
 
 2. **Z. Sun**, J. Beaumariage, Q. Cao, B. Hunt, K. Watanabe, T. Taniguchi, D. W. Snoke, "Toward a room temperature Schafroth superconductor based on charged excitonic complexes," **_arXiv:2003.05850_ (2020) (Corresponding author)**
 
 3. D. W. Snoke, Y. Yoon, D. M. Myers, S. Mukherjee, J. Beaumariage, V. Hartwell, M. Steger, E. Estrecho, **Z. Sun**, E.A. Ostrovskaya, and K.A. Nelson, "Experimental determinations of polariton-polariton interactions in microcavities," **_Under preparation_ (2020)**
 
-4. **Zheng Sun**, Jonathan Beaumariage, Ke Xu, Jierui Liang, Shaocong Hou, Stephen R. Forrest, Susan K Fullerton-Shirey, David W. Snoke, "Electric-field-induced optical hysteresis in single-layer WSe2,"  **_Appl. Phys. Lett., 7 (7), 115, 161103_ (2019) (Corresponding author)**.
+4. **Zheng Sun**, Jonathan Beaumariage, Ke Xu, Jierui Liang, Shaocong Hou, Stephen R. Forrest, Susan K Fullerton-Shirey, David W. Snoke, "Electric-field-induced optical hysteresis in single-layer WSe2,"  **_Appl. Phys. Lett. 7 (7), 115, 161103_ (2019) (Corresponding author)**.
 
-5. S Mukherjee, DM Myers, RG Lena, B Ozden, J Beaumariage, **Z. Sun**, M Steger, LN Pfeiffer, K West, AJ Daley, DW Snoke, “Natural Oscillations of a Polariton Condensate in a Ring,” **_Phys. Rev. B, 100 (24), 245304_ (2019)**
+5. S Mukherjee, DM Myers, RG Lena, B Ozden, J Beaumariage, **Z. Sun**, M Steger, LN Pfeiffer, K West, AJ Daley, DW Snoke, “Natural Oscillations of a Polariton Condensate in a Ring,” **_Phys. Rev. B 100 (24) 245304_ (2019)**
 
-6. **Zheng Sun**, David W Snoke, “Optical switching with organics,” , [Invited] \textbf{\textit{Nat. Photonics}}, \textbf{[News and Views]}, 13, 370-371, (2019)(\textbf{Corresponding author})
+6. **Zheng Sun**, David W Snoke, “Optical switching with organics,”, **[Invited] _Nat. Photonics,[News and Views], 13, 370-371_ (2019) (Corresponding author)**
 
-\item 7. \textbf{\underline{Zheng Sun}}, Jonathan Beaumariage, Hema C P Movva, Sayema Chowdhury, Anupam Roy, Sanjay K Banerjee, David W Snoke, “Stress-induced bandgap renormalization in atomic crystals,” \textbf{\textit{Solid State Communications}}, 288, 18-21, (2019) (\textbf{Corresponding author})
+7. **Zheng Sun**, Jonathan Beaumariage, Hema C P Movva, Sayema Chowdhury, Anupam Roy, Sanjay K Banerjee, David W Snoke, “Stress-induced bandgap renormalization in atomic crystals,” **_Solid State Communications 288, 18-21_ (2019) (Corresponding author)
 
-\item 8. Biswanath Chakraborty, Jie Gu, \textbf{\underline{Zheng Sun}}, Mandeep Khatoniar, Rezlind Bushati, Alexandra L Boehmke, Rian Koots, Vinod M Menon, “Control of Strong Light-matter Interaction in Monolayer WS2 Through Electric Field Gating,” \textbf{\textit{Nano Lett.}}, 18 (10), 6455-6460, (2018)
+8. Biswanath Chakraborty, Jie Gu, **Zheng Sun**, Mandeep Khatoniar, Rezlind Bushati, Alexandra L Boehmke, Rian Koots, Vinod M Menon, “Control of Strong Light-matter Interaction in Monolayer WS2 Through Electric Field Gating,” **_Nano Lett. 18 (10), 6455-6460_ (2018)
 
-\item 9. \textbf{\underline{Zheng Sun}}, Jie Gu, Areg Ghazryan, Zav Shotan, Christopher R. Considine, Michael Dollar, Biswanath Chakraborty, Xiaoze Liu, Pouyan Ghaemi, S. Kéna-Cohen, Vinod M. Menon, “Optical Control of Room Temperature Valley Polaritons,” \textbf{\textit{Nat. Photonics}}, 11, 491-496 (2017) 
+9. **Zheng Sun**, Jie Gu, Areg Ghazryan, Zav Shotan, Christopher R. Considine, Michael Dollar, Biswanath Chakraborty, Xiaoze Liu, Pouyan Ghaemi, S. Kéna-Cohen, Vinod M. Menon, “Optical Control of Room Temperature Valley Polaritons,” **_Nat. Photonics 11, 491-496_ (2017)** 
 
-\item 10. T Galfsky, \textbf{\underline{Zheng Sun$^\ast$}}, CR Considinel, CT Chou, WC Ko, YH Lee, E Narimanov, “Broadband enhancement of light-matter interaction in 2D semiconductors by photonic hypercrystals,” \textbf{\textit{Nano Lett.}} 16 (8), 4940-4945 (2016) \textbf{(Co-first author)}  
+10. T Galfsky, **Zheng Sun**, CR Considinel, CT Chou, WC Ko, YH Lee, E Narimanov, “Broadband enhancement of light-matter interaction in 2D semiconductors by photonic hypercrystals,” **_Nano Lett. 16 (8), 4940-4945_ (2016) (Co-first author)**  
 
-\item 11. T. Galfsky, \textbf{\underline{Z. Sun}}, Z. Jacob, V. M. Menon, “Preferential emission into epsilon-near-zero metamaterial ,” \textbf{[Invited]}, \textbf{\textit{Opt. Mater. Express}}, 5(12), 2878-2883 (2015) 
+11. T. Galfsky, **Z. Sun**, Z. Jacob, V. M. Menon, “Preferential emission into epsilon-near-zero metamaterial ,” **[Invited], _Opt. Mater. Express 5(12), 2878-2883_ (2015)** 
 
-\item 12. X. Liu, T. Galfsky, \textbf{\underline{Z. Sun}}, F. Xia, E. Lin, Y.-H. Lee, S. Kéna-Cohen, and V. M. Menon,"Strong light–matter coupling in two-dimensional atomic crystals," \textbf{\textit{Nat. Photonics}} 9, 30–34 (2014)
+12. X. Liu, T. Galfsky, **Z. Sun**, F. Xia, E. Lin, Y.-H. Lee, S. Kéna-Cohen, and V. M. Menon,"Strong light–matter coupling in two-dimensional atomic crystals," **_Nat. Photonics 9, 30–34_ (2014)** 
 
-\item 13. \textbf{\underline{Zheng Sun}}, LinHong Yang, XueChu Shen, ZhangHai Chen, "Anisotropic Raman spectroscopy of a single $\beta$-Ga$_2$O$_3$ nanobelt," \textbf{\textit{Science Bulletin}}, 57(6) (2012) \textbf{(Cover Story)}   
+13. **Zheng Sun**, LinHong Yang, XueChu Shen, ZhangHai Chen, "Anisotropic Raman spectroscopy of a single $\beta$-Ga$_2$O$_3$ nanobelt," **_Science Bulletin, 57 (6)_ (2012) (Cover Story)**   
 
-\item 14. Qijun Ren, Jian Lu, H H Tan, Shan Wu, Liaoxin Sun, Weihang Zhou, Wei Xie, \textbf{\underline{Zheng Sun}}, Yongyuan Zhu, C Jagadish, S C Shen, Zhanghai Chen, "Spin-Resolved Purcell Effect in a Quantum Dot Microcavity System,"\textbf{\textit{Nano Lett.}}, 12 (7), 3455-3459 (2012) 
+14. Qijun Ren, Jian Lu, H H Tan, Shan Wu, Liaoxin Sun, Weihang Zhou, Wei Xie, **Zheng Sun**, Yongyuan Zhu, C Jagadish, S C Shen, Zhanghai Chen, "Spin-Resolved Purcell Effect in a Quantum Dot Microcavity System,"**Nano Lett. 12 (7), 3455-3459_ (2012)** 
 
-\item 15. Lin-Hong Yang, Hong-Xing Dong, \textbf{\underline{Zheng Sun}}, Liao-Xin Sun, Xue-Chu Shen, Zhang-Hai Chen: Temperature-Induced Phase Transition of In$_2$O$_3$ from a Rhombohedral Structure to a Body-Centered Cubic Structure. \textbf{\textit{Chinese Physics Letters}}, 28(8) (2011)
+15. Lin-Hong Yang, Hong-Xing Dong, **Zheng Sun**, Liao-Xin Sun, Xue-Chu Shen, Zhang-Hai Chen: Temperature-Induced Phase Transition of In$_2$O$_3$ from a Rhombohedral Structure to a Body-Centered Cubic Structure. **_Chinese Physics Letters, 28 (8)_ (2011)**
 
-\item 16. \textbf{\underline{Zheng Sun}}, Yuan-Ping Xu, Sheng Li, Thomas F George, "Forbidden Singlet Exciton Transitions Induced by Localization in Polymer Light-Emitting Diodes in a Strong Electric Field," \textbf{\textit{Journal of Physical Chemistry B}}, 115(5) 869-73 (2011)
+16. **Zheng Sun**, Yuan-Ping Xu, Sheng Li, Thomas F George, "Forbidden Singlet Exciton Transitions Induced by Localization in Polymer Light-Emitting Diodes in a Strong Electric Field," **_Journal of Physical Chemistry B, 115 (5), 869-73_ (2011)**
 \end{itemize}
 
 
