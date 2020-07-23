@@ -1,5 +1,5 @@
-![Selfie](/images/Selfie.jpg)
 ## WELCOME TO Dr.SUN'S HOMEPAGE
+![Selfie](/images/Selfie.jpg)
 
 I’m a researcher in physics and my interest field can be best summarized as exploration of light-matter interaction at the nanoscale. The main research focus areas are development of: photonic structures that confine light and artificially engineered optical materials such as metamaterials, optical micro-cavities and hybrid excitonic materials display optical properties that surpass naturally occurring materials. These focus areas are motivated by the quest to develop next generation computing technologies including those that exploit the quantum property of light, ultrasensitive sensors for chemical and biological detection, and high efficiency energy transfer systems.
 
@@ -91,31 +91,8 @@ Postdoc Fellow **University of Pittsburgh** 2017/11/01--2020/10/31.
 - Semiconductor Science and Technology 
 - Materials Research Express
 
+### MEDIUM COVERAGE
 
-```markdown
-Media Coverage
-
-“Photonic hypercrystals drastically enhance light emission in 2D materials”, [Phys.org](https://phys.org/news/2016-08-photonic-hypercrystals-drastically-emission-2d.html), Aug 2016
-
-“Study unveils new half-light half-matter quantum particles”, National Science Foundation, Phys.org, Nanotechnology Now, Science Daily, and more, Dec 2014.
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-[Phys.org](https://phys.org/news/2016-08-photonic-hypercrystals-drastically-emission-2d.html), Aug 2016
-For more details see [My Google Scholar](https://scholar.google.com/citations?hl=en&user=3DjSWtcAAAAJ&view_op=list_works&sortby=pubdate).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sunzheng85/SunLab2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-"Photonic hypercrystals drastically enhance light emission in 2D materials,"[Phys.org](https://phys.org/news/2016-08-photonic-hypercrystals-drastically-emission-2d.html), Aug 2016.
+-"Study unveils new half-light half-matter quantum particles" [National Science Foundation](https://www.nsf.gov/news/news_summ.jsp?cntn_id=133785), [Phys.
+org](https://phys.org/news/2014-12-unveils-half-light-half-matter-quantum-particles.html), [Nanotechnology Now](http://www.nanotech-now.com/news.cgi?story_id=50643), [Science Daily](https://www.sciencedaily.com/releases/2014/12/141229141447.htm), and more, Dec 2014.
