@@ -1,5 +1,4 @@
-![Selfie](/images/Selfie.jpg)
-<img align="left" width="100" height="100" src="https://github.com/100/100">
+![Selfie](/images/Selfie.jpg){:height="100",width="100"}
 
 I’m a researcher in physics and my interest field can be best summarized as exploration of light-matter interaction at the nanoscale. The main research focus areas are development of: photonic structures that confine light and artificially engineered optical materials such as metamaterials, optical micro-cavities and hybrid excitonic materials display optical properties that surpass naturally occurring materials. These focus areas are motivated by the quest to develop next generation computing technologies including those that exploit the quantum property of light, ultrasensitive sensors for chemical and biological detection, and high efficiency energy transfer systems.
 
