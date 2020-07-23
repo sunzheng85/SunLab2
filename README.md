@@ -61,7 +61,7 @@ Postdoc Fellow **University of Pittsburgh** 2017/11/01--2020/10/31.
 
 ### ORAL TALK
 1. American Physical Society **(APS) March Meeting, Denver, CO, USA,** Mar 2-6, 2020
-2. **Fudan- Guanghua** International Forum for Young Scholars **[Invited], Shanghai, China,** Dec 25-27, 2019
+2. Fudan- Guanghua International Forum for Young Scholars **[Invited], Shanghai, China,** Dec 25-27, 2019
 3. 9th International Conference On Spontaneous Coherence in Excitonics Systems **(ICSCE9), Montréal, Canada,** Jul 16-20, 2018
 4. East China Normal University **(ECNU)** International Forum for Young Scientists (Scholars) **[Invited], Shanghai, China,** Apr 26-28, 2018	 	
 5. Conference on Lasers and Electro-Optics and Quantum Electronics and Laser Science **(CLEO/QELS), San Jose, CA,USA,** May 14-19, 2017
