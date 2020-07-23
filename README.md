@@ -1,4 +1,4 @@
-![Selfie](https://github.com/sunzheng85/SunLab2/blob/master/Selfie.jpg){:height:="50%"}
+![Selfie](https://github.com/sunzheng85/SunLab2/blob/master/Selfie.jpg){:height="700px" width="400px"}
 
 ## WELCOME TO SUN'S HOMEPAGE
 
