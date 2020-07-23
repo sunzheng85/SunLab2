@@ -2,9 +2,13 @@
 I’m a researcher in physics and my interest field can be best summarized as exploration of light-matter interaction at the nanoscale. The main research focus areas are development of: photonic structures that confine light and artificially engineered optical materials such as metamaterials, optical micro-cavities and hybrid excitonic materials display optical properties that surpass naturally occurring materials. These focus areas are motivated by the quest to develop next generation computing technologies including those that exploit the quantum property of light, ultrasensitive sensors for chemical and biological detection, and high efficiency energy transfer systems.
 
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ph.D. Physics, The Graduate Center, City University of New York, 2017.
+
+M.A.  Physics, Fudan University, 2012.
+
+B.S.  Applied Physics, Zhejiang Normal University, 2008.
 
 ```markdown
 Syntax highlighted code block
