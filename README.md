@@ -1,5 +1,5 @@
 <img width="200" alt="Selfie" src="https://github.com/sunzheng85/SunLab2/blob/master/Selfie.jpg">
-## WELCOME TO SUN'S HOMEPAGE
+## WELCOME TO Dr.SUN'S HOMEPAGE
 
 I’m a researcher in physics and my interest field can be best summarized as exploration of light-matter interaction at the nanoscale. The main research focus areas are development of: photonic structures that confine light and artificially engineered optical materials such as metamaterials, optical micro-cavities and hybrid excitonic materials display optical properties that surpass naturally occurring materials. These focus areas are motivated by the quest to develop next generation computing technologies including those that exploit the quantum property of light, ultrasensitive sensors for chemical and biological detection, and high efficiency energy transfer systems.
 
@@ -61,7 +61,7 @@ Postdoc Fellow **University of Pittsburgh** 2017/11/01--2020/10/31.
 
 
 
-```markdown
+
 Syntax highlighted code block
 
 # Header 1
@@ -77,7 +77,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [My Google Scholar](https://scholar.google.com/citations?hl=en&user=3DjSWtcAAAAJ&view_op=list_works&sortby=pubdate).
 
