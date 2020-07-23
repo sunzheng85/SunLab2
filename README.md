@@ -40,7 +40,7 @@ Postdoc Fellow **University of Pittsburgh** 2017/11/01--2020/10/31.
 
 7. **Zheng Sun**, Jonathan Beaumariage, Hema C P Movva, Sayema Chowdhury, Anupam Roy, Sanjay K Banerjee, David W Snoke, “Stress-induced bandgap renormalization in atomic crystals,” **_Solid State Communications 288, 18-21_ (2019) (Corresponding author)**
 
-8. Biswanath Chakraborty, Jie Gu, **Zheng Sun**, Mandeep Khatoniar, Rezlind Bushati, Alexandra L Boehmke, Rian Koots, Vinod M Menon, “Control of Strong Light-matter Interaction in Monolayer WS2 Through Electric Field Gating,” **_Nano Lett. 18 (10), 6455-6460_ (2018)
+8. Biswanath Chakraborty, Jie Gu, **Zheng Sun**, Mandeep Khatoniar, Rezlind Bushati, Alexandra L Boehmke, Rian Koots, Vinod M Menon, “Control of Strong Light-matter Interaction in Monolayer WS2 Through Electric Field Gating,” **_Nano Lett. 18 (10), 6455-6460_ (2018)**
 
 9. **Zheng Sun**, Jie Gu, Areg Ghazryan, Zav Shotan, Christopher R. Considine, Michael Dollar, Biswanath Chakraborty, Xiaoze Liu, Pouyan Ghaemi, S. Kéna-Cohen, Vinod M. Menon, “Optical Control of Room Temperature Valley Polaritons,” **_Nat. Photonics 11, 491-496_ (2017)** 
 
