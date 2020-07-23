@@ -16,12 +16,12 @@ Postdoc Fellow **University of Pittsburgh** 2017/11/01--2020/10/31.
 
 ### Research Interest
 
-1.Excitons in two-dimensional Semiconductors of transition metal dichalchogenides (TMDs)
-2.Cavity quantum electrodynamics using inorganic and hybrid microcavities
-3.Engineered nonlinear optical materials based on hybrid nanocomposites
-4.Optical electro control of the polaritons and related applications
-5.Quantum optics using metamaterials
-6.Transportation of polaritons in GaAs quantum wells based microcavity
+1. Excitons in two-dimensional Semiconductors of transition metal dichalchogenides (TMDs)
+2. Cavity quantum electrodynamics using inorganic and hybrid microcavities
+3. Engineered nonlinear optical materials based on hybrid nanocomposites
+4. Optical electro control of the polaritons and related applications
+5. Quantum optics using metamaterials
+6. Transportation of polaritons in GaAs quantum wells based microcavity
 
 ```markdown
 Syntax highlighted code block
