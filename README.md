@@ -2,8 +2,6 @@
 
 I’m a researcher in physics and my interest field can be best summarized as exploration of light-matter interaction at the nanoscale. The main research focus areas are development of: photonic structures that confine light and artificially engineered optical materials such as metamaterials, optical micro-cavities and hybrid excitonic materials display optical properties that surpass naturally occurring materials. These focus areas are motivated by the quest to develop next generation computing technologies including those that exploit the quantum property of light, ultrasensitive sensors for chemical and biological detection, and high efficiency energy transfer systems.
 
-![GitHub Logo](/images/logo.png)
-
 ### EDUCATION
 
 Ph.D. Physics, **The Graduate Center, City University of New York**, 2017.
@@ -58,7 +56,8 @@ Postdoc Fellow **University of Pittsburgh** 2017/11/01--2020/10/31.
 15. Lin-Hong Yang, Hong-Xing Dong, **Zheng Sun**, Liao-Xin Sun, Xue-Chu Shen, Zhang-Hai Chen: Temperature-Induced Phase Transition of In<sub>2</sub>O<sub>3</sub> from a Rhombohedral Structure to a Body-Centered Cubic Structure. **_Chinese Physics Letters, 28 (8)_ (2011)**
 
 16. **Zheng Sun**, Yuan-Ping Xu, Sheng Li, Thomas F George, "Forbidden Singlet Exciton Transitions Induced by Localization in Polymer Light-Emitting Diodes in a Strong Electric Field," **_Journal of Physical Chemistry B, 115 (5), 869-873_ (2011)**
-[&Delta]
+
+$\alpha$
 
 
 ```markdown
