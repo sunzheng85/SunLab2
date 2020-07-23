@@ -76,12 +76,12 @@ Postdoc Fellow **University of Pittsburgh** 2017/11/01--2020/10/31.
 [My Publons](https://publons.com/dashboard/summary/)
 
 - Nature 
-- Physical Review Letter
 - Nature Photonics
+- Physical Review Letter
 - Physical Review X 
-- Nano Letters
 - Physical Review B 
 - Physical Review Materials 
+- Nano Letters
 - Optica 
 - Scientific Report 
 - Optics Letters 
