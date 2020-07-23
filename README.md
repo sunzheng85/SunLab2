@@ -36,7 +36,7 @@ Postdoc Fellow **University of Pittsburgh** 2017/11/01--2020/10/31.
 
 5. S Mukherjee, DM Myers, RG Lena, B Ozden, J Beaumariage, **Z. Sun**, M Steger, LN Pfeiffer, K West, AJ Daley, DW Snoke, “Natural Oscillations of a Polariton Condensate in a Ring,” **_Phys. Rev. B 100 (24) 245304_ (2019)**
 
-6. **Zheng Sun**, David W Snoke, “Optical switching with organics,”, **[Invited] _Nat. Photonics,[News and Views], 13, 370-371_ (2019) (Corresponding author)**
+6. **Zheng Sun**, David W Snoke, “Optical switching with organics,”, **[Invited] _Nat. Photonics,_[News and Views], _13, 370-371_ (2019) (Corresponding author)**
 
 7. **Zheng Sun**, Jonathan Beaumariage, Hema C P Movva, Sayema Chowdhury, Anupam Roy, Sanjay K Banerjee, David W Snoke, “Stress-induced bandgap renormalization in atomic crystals,” **_Solid State Communications 288, 18-21_ (2019) (Corresponding author)**
 
