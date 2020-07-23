@@ -73,11 +73,11 @@ Postdoc Fellow **University of Pittsburgh** 2017/11/01--2020/10/31.
 11. Conference on Lasers and Electro-Optics and Quantum Electronics and Laser Science **(CLEO/QELS), San Jose, CA, USA,** Jun 10-14, 2015
 
 ```markdown
-Syntax highlighted code block
+Media Coverage
 
-# Header 1
-## Header 2
-### Header 3
+“Photonic hypercrystals drastically enhance light emission in 2D materials”, Phys. org, Aug 2016
+
+“Study unveils new half-light half-matter quantum particles”, National Science Foundation, Phys.org, Nanotechnology Now, Science Daily, and more, Dec 2014.
 
 - Bulleted
 - List
