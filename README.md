@@ -60,13 +60,13 @@ Postdoc Fellow **University of Pittsburgh** 2017/11/01--2020/10/31.
 16. **Zheng Sun**, Yuan-Ping Xu, Sheng Li, Thomas F George, "Forbidden Singlet Exciton Transitions Induced by Localization in Polymer Light-Emitting Diodes in a Strong Electric Field," **_Journal of Physical Chemistry B, 115 (5), 869-873_ (2011)**
 
 ### ORAL TALK
-1. American Physical Society **APS March Meeting, Denver, CO, USA, Mar 2-6, 2020** 
-2. **Fudan**- Guanghua International Forum for Young Scholars **[Invited], Shanghai, China, Dec 25-27, 2019**
+1. American Physical Society **(APS) March Meeting, Denver, CO, USA, Mar 2-6, 2020** 
+2. **Fudan- Guanghua** International Forum for Young Scholars **[Invited], Shanghai, China, Dec 25-27, 2019**
 3. 9th International Conference On Spontaneous Coherence in Excitonics Systems **(ICSCE9), Montréal, Canada, Jul 16-20, 2018**
-4. East China Normal University **ECNU** International Forum for Young Scientists (Scholars) **[Invited], Shanghai, China, Apr 26-28, 2018**	 	
+4. East China Normal University **(ECNU)** International Forum for Young Scientists (Scholars) **[Invited], Shanghai, China, Apr 26-28, 2018**	 	
 5. Conference on Lasers and Electro-Optics and Quantum Electronics and Laser Science **(CLEO/QELS), San Jose, CA,USA, May 14-19, 2017**
 6. Emerging Researchers National **(ERN)** in STEM, **Washington DC, USA, March 2-4, 2017** 
-7. American Physical Society **APS March Meeting, New Orleans, LA, USA, March 13-17, 2017**
+7. American Physical Society **(APS) March Meeting, New Orleans, LA, USA, March 13-17, 2017**
 8. Material Research Science and Engineering Centers **(MRSEC), New York, NY, USA Nov 17, 2016**
 9. Conference on Lasers and Electro-Optics and Quantum Electronics and Laser Science **(CLEO/QELS), San Jose, CA, USA, June 6-9, 2016**
 10. Conference on Lasers and Electro-Optics and Quantum Electronics and Laser Science **(CLEO/QELS), San Jose, CA, USA, June 6-9, 2016**
