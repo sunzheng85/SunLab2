@@ -4,24 +4,24 @@ I’m a researcher in physics and my interest field can be best summarized as ex
 
 ### Education
 
-Ph.D. Physics, The Graduate Center, City University of New York, 2017.
+Ph.D. Physics, **The Graduate Center, City University of New York**, 2017.
 
-M.A.  Physics, Fudan University, 2012.
+M.A.  Physics, **Fudan University**, 2012.
 
-B.S.  Applied Physics, Zhejiang Normal University, 2008.
+B.S.  Applied Physics, **Zhejiang Normal University**, 2008.
 
 ### Employment
 
-Postdoc Fellow University of Pittsburgh 2017/11/01--2020/10/31.
+Postdoc Fellow **University of Pittsburgh** 2017/11/01--2020/10/31.
 
 ### Research Interest
 
-Excitons in two-dimensional Semiconductors of transition metal dichalchogenides (TMDs)
-Cavity quantum electrodynamics using inorganic and hybrid microcavities
-Engineered nonlinear optical materials based on hybrid nanocomposites
-Optical electro control of the polaritons and related applications
-Quantum optics using metamaterials
-Transportation of polaritons in GaAs quantum wells based microcavity
+1.Excitons in two-dimensional Semiconductors of transition metal dichalchogenides (TMDs)
+2.Cavity quantum electrodynamics using inorganic and hybrid microcavities
+3.Engineered nonlinear optical materials based on hybrid nanocomposites
+4.Optical electro control of the polaritons and related applications
+5.Quantum optics using metamaterials
+6.Transportation of polaritons in GaAs quantum wells based microcavity
 
 ```markdown
 Syntax highlighted code block
