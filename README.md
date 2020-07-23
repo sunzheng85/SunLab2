@@ -26,17 +26,17 @@ Postdoc Fellow **University of Pittsburgh** 2017/11/01--2020/10/31.
 
 ### PUBLICATIONS
 
-**Zheng Sun**, Jonathan Beaumariage, Qingrui Cao, Benjamin Hunt, Kenji Watanabe, Takashi Taniguchi, David W. Snoke, "Observation of the Interlayer Exciton Gases in WSe2-p:WSe2 Heterostructures," **_ACS Photonics 7 (7), 1622–1627_ (2020) Corresponding author**
+1. **Zheng Sun**, Jonathan Beaumariage, Qingrui Cao, Benjamin Hunt, Kenji Watanabe, Takashi Taniguchi, David W. Snoke, "Observation of the Interlayer Exciton Gases in WSe2-p:WSe2 Heterostructures," **_ACS Photonics, 7 (7), 1622–1627_ (2020) (Corresponding author)**
 
-\item 2. \textbf{\underline{Z. Sun}}, J. Beaumariage, Q. Cao, B. Hunt, K. Watanabe, T. Taniguchi, D. W. Snoke, "Toward a room temperature Schafroth superconductor based on charged excitonic complexes," \textbf{\textit{arXiv}}:2003.05850 (2020)(\textbf{Corresponding author})
+2. **Z. Sun**, J. Beaumariage, Q. Cao, B. Hunt, K. Watanabe, T. Taniguchi, D. W. Snoke, "Toward a room temperature Schafroth superconductor based on charged excitonic complexes," **_arXiv:2003.05850_ (2020) (Corresponding author)**
 
-\item 3. D. W. Snoke, Y. Yoon, D. M. Myers, S. Mukherjee, J. Beaumariage, V. Hartwell, M. Steger, E. Estrecho, \textbf{\underline{Z. Sun}}, E.A. Ostrovskaya, and K.A. Nelson, "Experimental determinations of polariton-polariton interactions in microcavities," \textbf{\textit{Under preparation}} (2020)
+3. D. W. Snoke, Y. Yoon, D. M. Myers, S. Mukherjee, J. Beaumariage, V. Hartwell, M. Steger, E. Estrecho, **Z. Sun**, E.A. Ostrovskaya, and K.A. Nelson, "Experimental determinations of polariton-polariton interactions in microcavities," **_Under preparation_ (2020)**
 
-\item 4. \textbf{\underline{Zheng Sun}}, Jonathan Beaumariage, Ke Xu, Jierui Liang, Shaocong Hou, Stephen R. Forrest, Susan K Fullerton-Shirey, David W. Snoke, "Electric-field-induced optical hysteresis in single-layer WSe$_2$," \textbf{\textit{Appl. Phys. Lett.}}, 115, 161103 (2019)(\textbf{Corresponding author})
+4. **Zheng Sun**, Jonathan Beaumariage, Ke Xu, Jierui Liang, Shaocong Hou, Stephen R. Forrest, Susan K Fullerton-Shirey, David W. Snoke, "Electric-field-induced optical hysteresis in single-layer WSe2,"  **_Appl. Phys. Lett., 7 (7), 115, 161103_ (2019) (Corresponding author)**.
 
-\item 5. S Mukherjee, DM Myers, RG Lena, B Ozden, J Beaumariage, \textbf{\underline{Z. Sun}}, M Steger, LN Pfeiffer, K West, AJ Daley, DW Snoke, “Natural Oscillations of a Polariton Condensate in a Ring,” \textbf{\textit{Phys. Rev. B}}, 100 (24), 245304 (2019) (\textbf{Kaleidoscope})
+5. S Mukherjee, DM Myers, RG Lena, B Ozden, J Beaumariage, **Z. Sun**, M Steger, LN Pfeiffer, K West, AJ Daley, DW Snoke, “Natural Oscillations of a Polariton Condensate in a Ring,” **_Phys. Rev. B, 100 (24), 245304_ (2019)**
 
-\item 6. \textbf{\underline{Zheng Sun}}, David W Snoke, “Optical switching with organics,” \textbf{[Invited]}, \textbf{\textit{Nat. Photonics}}, \textbf{[News and Views]}, 13, 370-371, (2019)(\textbf{Corresponding author})
+6. **Zheng Sun**, David W Snoke, “Optical switching with organics,” **[Invited]**, \textbf{\textit{Nat. Photonics}}, \textbf{[News and Views]}, 13, 370-371, (2019)(\textbf{Corresponding author})
 
 \item 7. \textbf{\underline{Zheng Sun}}, Jonathan Beaumariage, Hema C P Movva, Sayema Chowdhury, Anupam Roy, Sanjay K Banerjee, David W Snoke, “Stress-induced bandgap renormalization in atomic crystals,” \textbf{\textit{Solid State Communications}}, 288, 18-21, (2019) (\textbf{Corresponding author})
 
