@@ -75,9 +75,9 @@ Postdoc Fellow **University of Pittsburgh** 2017/11/01--2020/10/31.
 ```markdown
 Media Coverage
 
-“Photonic hypercrystals drastically enhance light emission in 2D materials”, Phys. org, Aug 2016
+“Photonic hypercrystals drastically enhance light emission in 2D materials”, [Phys.org](https://phys.org/news/2016-08-photonic-hypercrystals-drastically-emission-2d.html), Aug 2016
 
-“Study unveils new half-light half-matter quantum particles”, National Science Foundation, Phys.org, Nanotechnology Now, Science Daily, and more, Dec 2014.
+“Study unveils new half-light half-matter quantum particles”, National Science Foundation, Phys.org, Nanotechnology Now, Science Daily, and more, Dec 2014.
 
 - Bulleted
 - List
